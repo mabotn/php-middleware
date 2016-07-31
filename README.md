@@ -1,4 +1,4 @@
-# php-middleware
+# PHP Middleware
 A PHP Middleware for mobile apps developers
 
 This middleware will automatically generate SQL queries and run them depending to the sent request method and data
